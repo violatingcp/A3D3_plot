@@ -1,0 +1,47 @@
+#Projects,Scientific Applications,AI Algorithms,Computing Hardware,FTE,Leading Area,PIs,Affiliated PIs,Papers,Talks
+PNRP benchmark,0.4,0.1,0.5,6, Hetereogenous System,,"Rankin, Lai",,
+CMS SONIC miniAOD,0.28,0.23,0.49,6, Hetereogenous System,"Duarte, Harris, Liu",Rankin,,
+ExaTrkX-aaS,0.39,0.20,0.41,3, Hetereogenous System,Hsu,Ju,,CTD2022
+#ACTS-aaS,0.325,0.05,0.625,5, Hetereogenous System,"Hsu, Harris","Rankin, Ju",,
+Hermes (IaaS for LIGO),0.45,0.1,0.45,4, Hetereogenous System,"Harris, Katsavounidis, Coughlin",Rankin,,
+ProtoDune,0.3,0.1,0.6,5, Hetereogenous System,Harris,,,
+TorchSparse++,0,0.5,0.5,4,HAC,Han,,MLsys 2022,
+BEVFusion,0,0.55,0.45,4,HAC,Han,,ICRA 2023,
+PyLog,0.1,0.3,0.6,6,HAC,Chen,,,
+ScaleFlow,0.05,0.3,0.65,3,HAC,Chen,,,
+Scalable Graph ML,0.1,0.5,0.4,3,HAC,Li,,VLDB 2022/VLDB 2023 (submitted),
+Interpretable Geometric DL,0.275,0.625,0.1,3,HAC,"Liu, Li",,ICML 2022/ICLR 2023,
+Graph Domain Adaptation ,0.275,0.65,0.075,4,HAC,Li,,ICML 2023 (URL),
+GNN tracking on FPGA,0.3,0.3,0.4,3,HEP,"Duarte, Hauck, Hsu, Neubauer",,FPL (accepted),
+MLPF,0.5,0.4,0.1,1,HEP,Duarte,,"https://arxiv.org/abs/2303.17657, CHEP 2023",
+Particle Reco with Explainaable GNN,0.5,0.5,0,4,HEP,"Liu, Li",,"ICML 2022/ICLR2022, NeurIPS2022 AI 4 Science",
+Semisupervised GNN,0.45,0.55,0,1,HEP,"LIU, Li",,JHEP,"BOOST 2021, Neurips AI4Science 2022, CERN IML"
+ML for HEP Simulation,0.475,0.425,0.1,1,HEP,Duarte,,"https://arxiv.org/abs/2211.10295, PRD",
+sPVCNN,0.4,0.4,0.2,4,HEP,"Han, Harris, Hsu",,in preparaton,Links to FastML talks
+Energy Corrections GNN,0.7,0.3,0,3,HEP,Harris,,,
+AE L1 Trigger,0.6,0.2,0.2,2,HEP,Harris,,,
+tau3nu GNN,0.66,0.18,0.18,1,HEP,"LIU, Li",,In preparation,
+CMS L1 Trigger,0.24,0.18,0.58,5,HEP,"Harris, Duarte",,https://cds.cern.ch/record/2814728/,
+ATLAS GEP,0.37,0.16,0.47,6,HEP,"Hauck, Hsu","Carlson, Rankin",In preparation,
+LIGO Anomaly,0.33,0.52,0.15,8,MMA,"Harris, Katsavounidis, Coughlin",,,
+LIGO Aframe,0.45,0.35,0.2,3,MMA,"Harris, Katsavounidis, Coughlin",,In preparation,APS April Meeting
+LIGO PE,0.425,0.325,0.25,3,MMA,"Harris, Katsavounidis, Coughlin",,,
+DeepClean,0.55,0.35,0.1,1,MMA,"Coughlin, Katsavounidis",,Ready for submission,APS April meeting
+ZTF Scope,0.53,0.37,0.1,3,MMA,"Graham, Coughlin",,In preparation,APS April Meeting
+ZTF Pythia,0.35,0.475,0.175,3,MMA,"Graham, Coughlin",Sravan,In preparation,
+#Gravitational Wave,0.5,0.4,0.1,3,MMA,"Harris, Katsavounidis, Coughlin",,In preparation,APS April Meeting
+#Optics MMA,0.5,0.4,0.1,3,MMA,"Graham, Coughlin",,In preparation,APS April Meeting
+Neutrino MMA,0.65,0.25,0.1,2.5,MMA,"Scholberg, Riedel",,In preparation,
+#DUNE ICEBERG,0.65,0.25,0.1,1.5,MMA,Scholberg,,In preparation,
+neural reconstruction,0.525,0.475,0,1.25,NeuroAI,"Shlizerman, Orsborn",,https://www.biorxiv.org/content/10.1101/2022.09.07.507004v1,
+Neural feature selection ,0.6,0.4,0,0.75,Neuro,Orsborn,,in preparation,
+Neural forecasting,0.45,0.55,0,1,NeuroAI,"Shlizerman, Orsborn",,in submission,
+Neural image decoding,0.44,0.38,0.18,1,Neuro,Makin,,In preparation,
+Selfsupervised neural clustering,0.3,0.7,0,2,Neuro,Shlizerman,,,
+Transformers for neural,0.48,0.52,0,1,NeuroAI,"Shlizerman, Orsborn",,in preparation,
+Hyper-parameter tuning,0.25,0.75,0,4,NeuroAI,Shlizerman,,,
+LFADS,0.2,0.25,0.55,4,NeuroAI,"Scott, Hauck",Lai,,
+HLS4ML,0.25,0.2,0.55,5,Targeted System,"Duarte, Harris, Hauck, Hsu","Rankin, Lai","https://arxiv.org/abs/2207.00559, , https://arxiv.org/abs/2206.11791, MLBench at MLSys 2022",
+Analog ANN,0,0,1,2,Targeted System,Duarte,,,
+QONNX,0,0.6,0.4,1,Targeted System,Duarte,,"https://arxiv.org/abs/2206.07527, AccML at HiPEAC 2022",
+SR and KD compression,0,0.4,0.6,1,Targeted System,Duarte,,in preparation,
